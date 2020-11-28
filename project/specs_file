@@ -1,0 +1,5 @@
+1. Generate list of random integers.
+2. List size will be specified by user at run-time.
+3. Range of integer values will be specified by user at run-time.
+4. Run the sort functions with generated list of integers.
+5.
